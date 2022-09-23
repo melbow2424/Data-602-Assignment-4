@@ -1,4 +1,4 @@
-#Made Noah Collin and Melissa Bowman on 9/22/2022
+#Made by Noah Collin and Melissa Bowman on 9/22/2022
 """Q1: Create a class called BankAccount that has four attributes: bankname, firstname,
 lastname, and balance.
 The default balance should be set to 0.
